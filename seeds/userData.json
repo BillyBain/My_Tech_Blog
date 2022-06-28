@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moe",
+    "email": "moe@stooges.com",
+    "password": "password12345"
+  },
+  {
+    "name": "Larry",
+    "email": "larry@stooges.com",
+    "password": "password12345"
+  },
+  {
+    "name": "Curley",
+    "email": "curley@stooges.com",
+    "password": "password12345"
+  }
+]

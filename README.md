@@ -44,3 +44,4 @@ This helped me massively understand the structure and flow of a website. I had s
 everything fell into place.
 
 # Screenshot
+![My Tech Blog!! - Google Chrome 7_26_2022 10_06_48 PM](https://user-images.githubusercontent.com/100814286/181144880-bf1d172d-bcb4-4ec2-969e-2227e180b09a.png)
